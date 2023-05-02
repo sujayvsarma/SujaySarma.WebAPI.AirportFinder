@@ -1,10 +1,7 @@
 # SujaySarma.WebAPI.AirportFinder
-Performance boosted, re-written REST API service for the OurAirports dataset. Migrated from [old repo](https://github.com/sujayvsarma/SujaySarma.Api.OurAirports).
+Performance boosted, re-written REST API service for the OurAirports dataset. 
 ---
-(PROD) Web URL:
-https://airportfinder.sujaytravelapps.com
-
-Swagger: [https://airportfinder.sujaytravelapps.com/swagger/index.html](https://airportfinder.sujaytravelapps.com/swagger/index.html)
+This REST API service is no longer hosted. If someone is interested in running it, do go ahead and fork this code and set it up at your end. If you run into issues or need additional help, please open a ticket here on the `Issues` page and I will help you as best as I can.
 
 ---
 
